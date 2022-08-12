@@ -5,6 +5,7 @@
 @import "/Aulas/aula07CriandoSite/assets/Hands-on1/css/header.css";
 @import "/Aulas/aula07CriandoSite/assets/Hands-on1/css/buttom.css";
 @import "/Aulas/aula07CriandoSite/assets/Hands-on1/css/Main.css";
+@import "/Aulas/aula07CriandoSite/assets/Hands-on1/footer.css";
 /*Reset Css */
 *{
     margin: 0;
@@ -16,6 +17,13 @@
     font-weight: 300;
     vertical-align: baseline;
     text-decoration: none;
+    list-style: none;
+}
+body{
+    background-image: url(/Aulas/aula07CriandoSite/assets/imagens/bolha-background.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+ 
 }
 
 .container{
