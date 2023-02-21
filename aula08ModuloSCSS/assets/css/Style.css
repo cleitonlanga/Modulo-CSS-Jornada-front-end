@@ -1,0 +1,39 @@
+.btn {
+  width: 200px;
+  padding: 10px 0;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+}
+
+.btn-laranja {
+  background: aqua;
+  color: white;
+}
+.btn-laranja:hover {
+  background: #40bfbf;
+}
+
+.btn-roxo {
+  background: purple;
+  color: white;
+}
+.btn-roxo:hover {
+  background: #602060;
+}
+
+.btn-amarelo {
+  background: yellow;
+  color: white;
+}
+.btn-amarelo:hover {
+  background: #bfbf40;
+}
+
+p {
+  color: aqua;
+}
+
+/*# sourceMappingURL=style.css.map */
