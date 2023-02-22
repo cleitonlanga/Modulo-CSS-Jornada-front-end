@@ -1,0 +1,15 @@
+@import "./variaveis.scss";
+
+.btn{
+    padding: 5px 20px;
+    border-radius: $btn-radius;
+    //btn laranja
+    .btn.btn-laranja{
+        background: $color-terciaria;
+        color: $color-branca ;    
+    }
+    //End btn laranja
+}
+
+
+
